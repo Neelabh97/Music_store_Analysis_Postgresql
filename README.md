@@ -287,4 +287,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize and extend this SQL code according to your specific requirements. If you have any questions or suggestions, please feel free to reach out.
+Feel free to customize and extend this SQL code according to your specific requirements. If you have any questions or suggestions, please feel free to reach out. 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/neelabh-bhardwaj-525aa2113/))
+
